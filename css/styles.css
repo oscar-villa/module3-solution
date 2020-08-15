@@ -94,3 +94,8 @@ section span {
     font-weight: bold;
 }
  
+#backToTop{
+    color: #539af7;
+    font-weight: bold;
+    text-decoration: underline;
+}
